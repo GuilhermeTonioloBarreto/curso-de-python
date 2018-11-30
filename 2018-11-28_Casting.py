@@ -42,3 +42,6 @@ print(z)
 print(type(x))
 print(type(y))
 print(type(z))
+
+#observação: literal, em programação, significa o valor escrito exatamente como ele é significado para ser interpetado.
+#Ou seja, em x = 3, x é a variável. já o número 3 é o literal (é o valor da variável em si).
