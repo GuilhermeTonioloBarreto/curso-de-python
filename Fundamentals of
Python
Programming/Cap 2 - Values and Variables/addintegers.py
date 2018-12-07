@@ -1,0 +1,7 @@
+print("Digite um numero: ")
+x = input()
+print("Digite outro numero: ")
+y = input()
+x = int(x)
+y = int(y)
+print(x, '+', y, "=", x+y)

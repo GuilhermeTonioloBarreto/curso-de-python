@@ -135,3 +135,7 @@ x = ["maçã", "banana"]
 print("banana" in x) #Retorna True, porque a sequência com o valor "banana" está dentro da lista
 print("mexerica" in x) #Retorna False, porque a sequência com o valor "mexerica" não está dentro da lista
 print("mexerica" not in x) #Retorna True, porque a sequência com o valor "mexerica" não está dentro da lista
+
+#Operadores de bit a bit
+#No site que estou usando para aprender esses exemplos, não apresenta exemplos de como usar esses operadores. Contudo, 
+#eu acabei usando exemplos deles no subtópico Python Operadores de atribuição
